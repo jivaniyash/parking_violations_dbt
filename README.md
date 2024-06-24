@@ -22,7 +22,6 @@ pip install -r requirements.txt
 ```
 
 ### 4. Download datasets
-```sh
 Download data from Repo -
 ```sh
 wget https://raw.githubusercontent.com/LinkedInLearning/data-engineering-with-data-build-tool-dbt-4458303/main/data/dof_parking_violation_codes.csv -P ./data/
