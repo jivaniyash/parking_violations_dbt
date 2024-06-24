@@ -2,7 +2,7 @@ nyc_parking_violations:
   outputs:
     dev:
       type: duckdb
-      path: "../data/nyc_parking_violations.db"
+      path: "./data/nyc_parking_violations.db"
       # threads: 1
 
     prod:
