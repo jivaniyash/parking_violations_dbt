@@ -10,7 +10,7 @@ This repository is modified on top of [LinkedIn Course](https://github.com/Linke
 ### 1. Clone the Repository
 ```sh
 git clone https://github.com/jivaniyash/parking_violations_dbt
-cd 
+cd parking_violations_dbt
 ```
 
 ### 2. Set up a Virtual Environment
